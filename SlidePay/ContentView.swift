@@ -1,6 +1,6 @@
 //  Created by Tutundzhian Narek on 11/04/2025.
 //  LinkedIn: @narek1t
-//  GitHub: @narek1t
+//  GitHub: @narekkt
 
 import SwiftUI
 
